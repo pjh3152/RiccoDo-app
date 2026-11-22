@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="96" height="96" alt="RiccoDo 새싹 릭코 아이콘"></p>
+<p align="center"><img src="icon.png" width="96" height="96" alt="초록 바탕의 웃는 체크 표시 아이콘"></p>
 
 # RiccoDo
 
